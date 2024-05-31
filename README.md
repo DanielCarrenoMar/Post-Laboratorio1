@@ -12,4 +12,6 @@ Recibe un número entero positivo y devuelve si al convertirlo en [binario](http
 ## Suma de pares 2️⃣
 Recibe un número entero positivo y devuelve la suma de sus dígitos pares.
 ## Torres de Hanói 🗼 <sub>[Explicación](https://es.wikipedia.org/wiki/Torres_de_Han%C3%B3i)</sub>
-Recibe un número entero positivo para la cantidad de discos y muestra una simulación de los movimientos a realizar.
+Recibe un número entero positivo para la cantidad de discos y muestra una simulación de los movimientos a realizar. *Con interfaz gráfica*.
+
+![Captura](https://github.com/DanielCarrenoMar/Post-Laboratorio1/assets/144462396/648501df-e4b8-433c-aec2-047954a5a37f)
