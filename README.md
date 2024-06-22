@@ -16,5 +16,10 @@ Recibe un número entero positivo para la cantidad de discos y muestra una simul
 
 ![Captura](https://github.com/DanielCarrenoMar/Post-Laboratorio1/assets/144462396/648501df-e4b8-433c-aec2-047954a5a37f)
 
-## Librerías Utilizadas 📚
+# Librerías Utilizadas 📚
 - Pygame
+
+# Ejecución
+1. Debes tener [python](https://www.python.org/downloads) instalado.
+2. Instalar las librerías utilizadas con `pip install (nombre de la libreria)`.
+3. Ejecutar el programa con `python (nombre del archivo .py)`.
