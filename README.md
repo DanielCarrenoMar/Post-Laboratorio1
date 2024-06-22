@@ -19,7 +19,7 @@ Recibe un número entero positivo para la cantidad de discos y muestra una simul
 # Librerías Utilizadas 📚
 - Pygame
 
-# Ejecución
+# Ejecución 💻
 1. Debes tener [python](https://www.python.org/downloads) instalado.
 2. Instalar las librerías utilizadas con `pip install (nombre de la libreria)`.
 3. Ejecutar el programa con `python (nombre del archivo .py)`.
